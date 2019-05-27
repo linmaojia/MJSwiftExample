@@ -22,7 +22,7 @@ class StoreHomeVC: MJBasicViewController {
         
     }
     func setUIAppearance(){
-        self.title = "longma"
+        self.title = "longma123测试"
         
         self.view.addSubview(tbvData)
         tbvData.snp.makeConstraints { (make) -> Void in
